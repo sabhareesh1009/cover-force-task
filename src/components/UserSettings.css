@@ -1,0 +1,104 @@
+.divider {
+  position: absolute;
+  width: 1167px;
+  height: 0px;
+  left: 273px;
+  top: 84px;
+  border: 1px solid #000000;
+  transform: rotate(0.05deg);
+}
+
+.header {
+  position: absolute;
+  width: 146px;
+  height: 28px;
+  left: 388px;
+  top: 27px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.name-lable {
+  position: absolute;
+  width: 48px;
+  height: 21px;
+  left: 388px;
+  top: 124px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.name-box {
+  position: absolute;
+  width: 611px;
+  height: 44px;
+  left: 388px;
+  top: 160px;
+  background: #ffffff;
+  border: 1px solid #9e9e9e;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.name-content {
+  position: absolute;
+  width: 141px;
+  height: 21px;
+  left: 407px;
+  top: 172px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.email-lable {
+  position: absolute;
+  width: 45px;
+  height: 21px;
+  left: 388px;
+  top: 254px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.email-box {
+  position: absolute;
+  width: 611px;
+  height: 52px;
+  left: 388px;
+  top: 290px;
+  background: #ffffff;
+  border: 1px solid #9e9e9e;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.email-content {
+  position: absolute;
+  width: 179px;
+  height: 21px;
+  left: 414px;
+  top: 305px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+

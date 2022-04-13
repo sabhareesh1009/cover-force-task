@@ -1,0 +1,37 @@
+.sidebar {
+  position: absolute;
+  width: 276px;
+  height: 1024px;
+  left: -2px;
+  top: 0px;
+  background: #1c1c1c;
+}
+
+.settingsPro {
+  position: absolute;
+  width: 95px;
+  height: 21px;
+  left: 36px;
+  top: 33px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+}
+
+.userSettings {
+  position: absolute;
+  width: 107px;
+  height: 21px;
+  left: 36px;
+  top: 100px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration-line: underline;
+  color: #ffffff;
+}

@@ -1,0 +1,126 @@
+.carrierContainer {
+  position: absolute;
+  width: 727px;
+  height: 357px;
+  left: 371px;
+  top: 404px;
+  background: #f7f7f7;
+  border: 1px solid #d7d7d7;
+  box-sizing: border-box;
+  box-shadow: inset 0px 1px 9px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+}
+
+.carrier-settings {
+  position: absolute;
+  width: 128px;
+  height: 21px;
+  left: 403px;
+  top: 424px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.carrier-line {
+  position: absolute;
+  width: 726px;
+  height: 0px;
+  left: 372px;
+  top: 462px;
+
+  border: 1px solid #bdbdbd;
+  transform: rotate(0.08deg);
+}
+
+.carrier1-lable {
+  position: absolute;
+  width: 90px;
+  height: 21px;
+  left: 420px;
+  top: 500px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.carrier1-box {
+  position: absolute;
+  width: 611px;
+  height: 52px;
+  left: 414px;
+  top: 539px;
+
+  background: #ffffff;
+  border: 1px solid #9e9e9e;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.carrier1-content {
+  position: absolute;
+  width: 51px;
+  height: 21px;
+  left: 440px;
+  top: 551px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.carrier2-lable {
+  position: absolute;
+  width: 90px;
+  height: 21px;
+  left: 420px;
+  top: 625px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.carrier2-box {
+  position: absolute;
+  width: 611px;
+  height: 52px;
+  left: 414px;
+  top: 664px;
+
+  background: #ffffff;
+  border: 1px solid #9e9e9e;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.carrier2-content {
+    position: absolute;
+    width: 51px;
+    height: 21px;
+    left: 440px;
+    top: 676px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
